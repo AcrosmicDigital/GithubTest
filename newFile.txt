@@ -1,4 +1,0 @@
-Hello
-adited protected branch
-
-On branch main
